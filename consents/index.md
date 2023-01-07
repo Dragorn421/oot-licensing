@@ -71,7 +71,7 @@ ariahiro64          | https://github.com/ariahiro64          | -
 HylianFreddy        | https://github.com/HylianFreddy        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 mracsys             | https://github.com/mracsys             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 milotier            | https://github.com/milotier            | -
-mrneo240            | https://github.com/mrneo240            | -
+mrneo240            | https://github.com/mrneo240            | yes to CCO (see public/mrneo240/)
 kemenaran           | https://github.com/kemenaran           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 philtyl             | https://github.com/philtyl             | -
 srmeier             | https://github.com/srmeier             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
