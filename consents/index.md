@@ -7,11 +7,11 @@ Note this list may be incomplete as it is based on the public repository history
 GitHub Username | GitHub profile | Consent
 -|-|-
 Roman971            | https://github.com/Roman971            | -
-fig02               | https://github.com/fig02               | -
+fig02               | https://github.com/fig02               | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Dragorn421          | https://github.com/Dragorn421          | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 ethteck             | https://github.com/ethteck             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-petrie911           | https://github.com/petrie911           | -
-Thar0               | https://github.com/Thar0               | -
+petrie911           | https://github.com/petrie911           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
+Thar0               | https://github.com/Thar0               | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 engineer124         | https://github.com/engineer124         | -
 louist103           | https://github.com/louist103           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 EllipticEllipsis    | https://github.com/EllipticEllipsis    | -
@@ -26,7 +26,7 @@ zelda2774           | https://github.com/zelda2774           | -
 Zelllll             | https://github.com/Zelllll             | -
 hensldm             | https://github.com/hensldm             | -
 i82orbom            | https://github.com/i82orbom            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-zelda2773           | https://github.com/zelda2773           | -
+zelda2773           | https://github.com/zelda2773           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Jack-Walker         | https://github.com/Jack-Walker         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 tom-overton         | https://github.com/tom-overton         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 AdamKiddle          | https://github.com/AdamKiddle          | -
@@ -46,7 +46,7 @@ kyleburnette        | https://github.com/kyleburnette        | -
 playerskel          | https://github.com/playerskel          | -
 Kenix3              | https://github.com/Kenix3              | -
 luryus              | https://github.com/luryus              | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-krm01               | https://github.com/krm01               | -
+krm01               | https://github.com/krm01               | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 rogual              | https://github.com/rogual              | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 FryJay              | https://github.com/FryJay              | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Faschz              | https://github.com/Faschz              | -
@@ -56,7 +56,7 @@ notyourav           | https://github.com/notyourav           | yes to CC0 https:
 CharlesAverill      | https://github.com/CharlesAverill      | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Yanis42             | https://github.com/Yanis42             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 jacobly0            | https://github.com/jacobly0            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-zbanks              | https://github.com/zbanks              | -
+zbanks              | https://github.com/zbanks              | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 vijfhoek            | https://github.com/vijfhoek            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 s5bug               | https://github.com/s5bug               | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 soulwa              | https://github.com/soulwa              | -
@@ -86,4 +86,4 @@ Electrk             | https://github.com/Electrk             | yes to CC0 https:
 andrewzwicky        | https://github.com/andrewzwicky        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 CrookedPoe          | https://github.com/CrookedPoe          | -
 L-P                 | https://github.com/L-P                 | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-cmon-meow           | https://github.com/cmon-meow           | -
+cmon-meow           | https://github.com/cmon-meow           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
