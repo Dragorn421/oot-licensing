@@ -1,7 +1,5 @@
 List of contributors to zeldaret/oot https://github.com/zeldaret/oot/ and status on what they're consenting to about their contributions.
 
-Note this list may be incomplete as it is based on the public repository history, and there were contributors before the repository was made public.
-
 "-" for "Consent" means "nothing yet"
 
 GitHub Username | GitHub profile | Consent
@@ -22,7 +20,7 @@ shawlucas           | https://github.com/shawlucas           | yes to CC0 https:
 mzxrules            | https://github.com/mzxrules            | -
 gamestabled         | https://github.com/gamestabled         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Synray              | https://github.com/Synray              | -
-zelda2774           | https://github.com/zelda2774           | -
+zelda2774           | https://github.com/zelda2774           | yes to CC0 (privately, see private/)
 Zelllll             | https://github.com/Zelllll             | -
 hensldm             | https://github.com/hensldm             | -
 i82orbom            | https://github.com/i82orbom            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
@@ -87,3 +85,6 @@ andrewzwicky        | https://github.com/andrewzwicky        | yes to CC0 https:
 CrookedPoe          | https://github.com/CrookedPoe          | -
 L-P                 | https://github.com/L-P                 | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 cmon-meow           | https://github.com/cmon-meow           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
+
+Note this list is incomplete as it is based on the public repository history, and there were contributors before the repository was made public.
+*These contributors have privately agreed to CC0* and wish to remain anonymous. See the "private" folder for proofs of their agreement if they ever come out (proofs encrypted under their current GitHub username).
