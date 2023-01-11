@@ -10,7 +10,7 @@ Dragorn421          | https://github.com/Dragorn421          | yes to CC0 https:
 ethteck             | https://github.com/ethteck             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 petrie911           | https://github.com/petrie911           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Thar0               | https://github.com/Thar0               | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-engineer124         | https://github.com/engineer124         | -
+engineer124         | https://github.com/engineer124         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 louist103           | https://github.com/louist103           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 EllipticEllipsis    | https://github.com/EllipticEllipsis    | -
 krimtonz            | https://github.com/krimtonz            | -
@@ -19,10 +19,10 @@ Random06457         | https://github.com/Random06457         | yes to CC0 https:
 shawlucas           | https://github.com/shawlucas           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 mzxrules            | https://github.com/mzxrules            | -
 gamestabled         | https://github.com/gamestabled         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-Synray              | https://github.com/Synray              | -
+Synray              | https://github.com/Synray              | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 zelda2774           | https://github.com/zelda2774           | yes to CC0 (privately, see private/)
 Zelllll             | https://github.com/Zelllll             | -
-hensldm             | https://github.com/hensldm             | -
+hensldm             | https://github.com/hensldm             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 i82orbom            | https://github.com/i82orbom            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 zelda2773           | https://github.com/zelda2773           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Jack-Walker         | https://github.com/Jack-Walker         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
@@ -34,13 +34,13 @@ Sirius902           | https://github.com/Sirius902           | yes to CC0 https:
 pixel-stuck         | https://github.com/pixel-stuck         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 ProjectRevoTPP      | https://github.com/ProjectRevoTPP      | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 maekclena           | https://github.com/maekclena           | -
-Kelebek1            | https://github.com/Kelebek1            | -
+Kelebek1            | https://github.com/Kelebek1            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 emilybrooks         | https://github.com/emilybrooks         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 blackgamma7         | https://github.com/blackgamma7         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-JoshDuMan           | https://github.com/JoshDuMan           | -
+JoshDuMan           | https://github.com/JoshDuMan           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 NEstelami           | https://github.com/NEstelami           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 nfaltermeier        | https://github.com/nfaltermeier        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-kyleburnette        | https://github.com/kyleburnette        | -
+kyleburnette        | https://github.com/kyleburnette        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 playerskel          | https://github.com/playerskel          | -
 Kenix3              | https://github.com/Kenix3              | -
 luryus              | https://github.com/luryus              | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
@@ -58,7 +58,7 @@ zbanks              | https://github.com/zbanks              | yes to CC0 https:
 vijfhoek            | https://github.com/vijfhoek            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 s5bug               | https://github.com/s5bug               | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 soulwa              | https://github.com/soulwa              | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-MNGoldenEagle       | https://github.com/MNGoldenEagle       | -
+MNGoldenEagle       | https://github.com/MNGoldenEagle       | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 liamnobel           | https://github.com/liamnobel           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Emill               | https://github.com/Emill               | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 silv3rwing07        | https://github.com/silv3rwing07        | -
@@ -67,7 +67,7 @@ Peppers1612         | https://github.com/Peppers1612         | -
 kroemker            | https://github.com/kroemker            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Half-asian          | https://github.com/Half-asian          | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 snablu              | https://github.com/snablu              | -
-ariahiro64          | https://github.com/ariahiro64          | -
+ariahiro64          | https://github.com/ariahiro64          | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 HylianFreddy        | https://github.com/HylianFreddy        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 mracsys             | https://github.com/mracsys             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 milotier            | https://github.com/milotier            | -
