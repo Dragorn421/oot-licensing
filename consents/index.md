@@ -88,3 +88,8 @@ cmon-meow           | https://github.com/cmon-meow           | yes to CC0 https:
 
 Note this list is incomplete as it is based on the public repository history, and there were contributors before the repository was made public.
 *These contributors have privately agreed to CC0* and wish to remain anonymous. See the "private" folder for proofs of their agreement if they ever come out (proofs encrypted under their current GitHub username).
+
+Note that historically some parts of the oot decomp repo (it is unclear which) come from the sm64 decomp repo.
+And the sm64 decomp has been released under CC0 with all its contributors' agreements:
+https://github.com/n64decomp/sm64/blob/66018e9f3caaa67399218971d61366cb3f7ba7d7/LICENSE.md
+(archived: https://web.archive.org/web/20230111072306/https://github.com/n64decomp/sm64/blob/66018e9f3caaa67399218971d61366cb3f7ba7d7/LICENSE.md )
