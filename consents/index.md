@@ -61,7 +61,7 @@ soulwa              | https://github.com/soulwa              | yes to CC0 https:
 MNGoldenEagle       | https://github.com/MNGoldenEagle       | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 liamnobel           | https://github.com/liamnobel           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Emill               | https://github.com/Emill               | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-silv3rwing07        | https://github.com/silv3rwing07        | -
+silv3rwing07        | https://github.com/silv3rwing07        | yes to CC0 (privately, see private/)
 mnzlmstr            | https://github.com/mnzlmstr            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Peppers1612         | https://github.com/Peppers1612         | -
 kroemker            | https://github.com/kroemker            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
