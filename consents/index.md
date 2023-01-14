@@ -41,7 +41,7 @@ JoshDuMan           | https://github.com/JoshDuMan           | yes to CC0 https:
 NEstelami           | https://github.com/NEstelami           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 nfaltermeier        | https://github.com/nfaltermeier        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 kyleburnette        | https://github.com/kyleburnette        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-playerskel          | https://github.com/playerskel          | -
+playerskel          | https://github.com/playerskel          | yes to CCO (see public/playerskel/)
 Kenix3              | https://github.com/Kenix3              | -
 luryus              | https://github.com/luryus              | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 krm01               | https://github.com/krm01               | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
