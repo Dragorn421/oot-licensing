@@ -33,7 +33,7 @@ glankk              | https://github.com/glankk              | yes to CC0 https:
 Sirius902           | https://github.com/Sirius902           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 pixel-stuck         | https://github.com/pixel-stuck         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 ProjectRevoTPP      | https://github.com/ProjectRevoTPP      | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-maekclena           | https://github.com/maekclena           | -
+maekclena           | https://github.com/maekclena           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Kelebek1            | https://github.com/Kelebek1            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 emilybrooks         | https://github.com/emilybrooks         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 blackgamma7         | https://github.com/blackgamma7         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
