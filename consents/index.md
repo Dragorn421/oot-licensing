@@ -13,7 +13,7 @@ Thar0               | https://github.com/Thar0               | yes to CC0 https:
 engineer124         | https://github.com/engineer124         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 louist103           | https://github.com/louist103           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 EllipticEllipsis    | https://github.com/EllipticEllipsis    | -
-krimtonz            | https://github.com/krimtonz            | -
+krimtonz            | https://github.com/krimtonz            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 AngheloAlf          | https://github.com/AngheloAlf          | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Random06457         | https://github.com/Random06457         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 shawlucas           | https://github.com/shawlucas           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
@@ -70,7 +70,7 @@ snablu              | https://github.com/snablu              | -
 ariahiro64          | https://github.com/ariahiro64          | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 HylianFreddy        | https://github.com/HylianFreddy        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 mracsys             | https://github.com/mracsys             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
-milotier            | https://github.com/milotier            | -
+milotier            | https://github.com/milotier            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 mrneo240            | https://github.com/mrneo240            | yes to CCO (see public/mrneo240/)
 kemenaran           | https://github.com/kemenaran           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 philtyl             | https://github.com/philtyl             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
