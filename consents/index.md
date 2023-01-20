@@ -21,7 +21,7 @@ mzxrules            | https://github.com/mzxrules            | -
 gamestabled         | https://github.com/gamestabled         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Synray              | https://github.com/Synray              | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 zelda2774           | https://github.com/zelda2774           | yes to CC0 (privately, see private/)
-Zelllll             | https://github.com/Zelllll             | -
+Zelllll             | https://github.com/Zelllll             | yes to CCO (see private/secret/)
 hensldm             | https://github.com/hensldm             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 i82orbom            | https://github.com/i82orbom            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 zelda2773           | https://github.com/zelda2773           | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
