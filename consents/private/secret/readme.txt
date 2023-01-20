@@ -9,3 +9,7 @@ The .gpg files in here can be decrypted with a secret passphrase
 The passphrase is a secret known to some people.
 
 To decrypt: use `gpg --decrypt file.gpg`
+
+-----
+
+secret0.tar.gpg also archived here: https://web.archive.org/web/20230120215313/https://raw.githubusercontent.com/Dragorn421/oot-licensing/ec66956ac1270cc0d7cabd39788c3296c9d9bc00/consents/private/secret/secret0.tar.gpg
