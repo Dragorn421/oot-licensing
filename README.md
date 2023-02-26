@@ -6,7 +6,9 @@ This repository aims to track the (re)licensing of the contributions to the oot 
 
 ## TLDR
 
-Goal: relicense [zeldaret/oot](https://github.com/zeldaret/oot) to CC0, need the contributors to agree.
+Goal: relicense [zeldaret/oot](https://github.com/zeldaret/oot) to CC0, need the contributors to agree. ( -> https://github.com/Dragorn421/oot-licensing/issues/1 )
+
+Or, for new contributors, have their agreement to contribute under CC0. ( -> https://github.com/Dragorn421/oot-licensing/issues/3 )
 
 ## Get in touch
 
@@ -25,6 +27,8 @@ This makes many people feel uneasy about using the source, since it's not explic
 Note the unofficial stance though, is that people can do whatever they want with the code without having to ask or credit.
 
 The goal is to make that stance official. However to do it properly we need to ask the authors if they are okay with it.
+
+Going forward, we also have to ask new contributors to similarly agree to something.
 
 ## Which license?
 
