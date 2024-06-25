@@ -67,7 +67,7 @@ Peppers1612         | https://github.com/Peppers1612         | -
 kroemker            | https://github.com/kroemker            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 Half-asian          | https://github.com/Half-asian          | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 snablu              | https://github.com/snablu              | -
-ariahiro64          | https://github.com/ariahiro64          | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
+ariahiro64          | https://github.com/ariahiro64          | yes to CC0 (only for contributions before December the 8th, 2023) https://github.com/Dragorn421/oot-licensing/issues/1
 HylianFreddy        | https://github.com/HylianFreddy        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 mracsys             | https://github.com/mracsys             | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
 milotier            | https://github.com/milotier            | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1
