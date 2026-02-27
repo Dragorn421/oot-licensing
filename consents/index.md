@@ -1,5 +1,7 @@
 List of contributors to zeldaret/oot https://github.com/zeldaret/oot/ and status on what they're consenting to about their contributions.
 
+# Pre-CC0-effort contributors
+
 "-" for "Consent" means "nothing yet"
 
 GitHub Username     | GitHub profile                         | Consent                                                         | Archived
@@ -93,3 +95,36 @@ Note that historically some parts of the oot decomp repo (it is unclear which) c
 And the sm64 decomp has been released under CC0 with all its contributors' agreements:
 https://github.com/n64decomp/sm64/blob/66018e9f3caaa67399218971d61366cb3f7ba7d7/LICENSE.md
 (archived: https://web.archive.org/web/20230111072306/https://github.com/n64decomp/sm64/blob/66018e9f3caaa67399218971d61366cb3f7ba7d7/LICENSE.md )
+
+# Post-CC0-effort contributors
+
+Moving forward, all new contributors have been asked to license their contributions under CC0.
+
+See https://github.com/Dragorn421/oot-licensing/issues/3
+
+This table lists agreeing contributors.
+
+GitHub Username     | GitHub profile                         | GitHub user id | Archived
+--------------------|----------------------------------------|----------------|-
+waffleoRai          | https://github.com/waffleoRai          | 24638992       | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+adaliaramon         | https://github.com/adaliaramon         | 70635214       | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+nussico             | https://github.com/nussico             | 67802335       | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+cadmic              | https://github.com/cadmic              | 146315916      | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+Javarooster-png     | https://github.com/Javarooster-png     | 9499212        | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+hiisuya             | https://github.com/hiisuya             | 112015628      | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+phil-macrocheira    | https://github.com/phil-macrocheira    | 113477209      | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+inspectredc         | https://github.com/inspectredc         | 78732756       | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+Pepe20129           | https://github.com/Pepe20129           | 72659707       | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+Ozero4              | https://github.com/Ozero4              | 114027116      | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+Feacur              | https://github.com/Feacur              | 1132582        | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+JordanLongstaff     | https://github.com/JordanLongstaff     | 7563922        | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+benvillalobos       | https://github.com/benvillalobos       | 4691428        | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+GhostlyDark         | https://github.com/GhostlyDark         | 31742919       | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+GabrielRavier       | https://github.com/GabrielRavier       | 31440290       | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+joshmoody24         | https://github.com/joshmoody24         | 16723994       | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+djevangelia         | https://github.com/djevangelia         | 263709373      | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+
+Notes:
+
+- GitHub username -> id https://api.github.com/users/Dragorn421
+- GitHub id -> username https://api.github.com/user/5306619
