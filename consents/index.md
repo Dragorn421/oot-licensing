@@ -19,7 +19,7 @@ krimtonz            | https://github.com/krimtonz            | 33664508       | 
 AngheloAlf          | https://github.com/AngheloAlf          | 7416381        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1 | [issue1_20260227.png](public/issue1/issue1_20260227.png)
 Random06457         | https://github.com/Random06457         | 28494085       | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1 | [issue1_20260227.png](public/issue1/issue1_20260227.png)
 shawlucas           | https://github.com/shawlucas           | 49287729       | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1 | [issue1_20260227.png](public/issue1/issue1_20260227.png)
-mzxrules            | https://github.com/mzxrules            | 1130747        | -                                                               | -
+mzxrules            | https://github.com/mzxrules            | 1130747        | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1 | [issue1_20260325.png](public/issue1/issue1_20260325.png)
 gamestabled         | https://github.com/gamestabled         | 55638330       | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1 | [issue1_20260227.png](public/issue1/issue1_20260227.png)
 Synray              | https://github.com/Synray              | 31429825       | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1 | [issue1_20260227.png](public/issue1/issue1_20260227.png)
 zelda2774           | https://github.com/zelda2774           | 69368340       | yes to CC0 (privately, see private/)                            | -
@@ -87,6 +87,10 @@ andrewzwicky        | https://github.com/andrewzwicky        | 5263073        | 
 CrookedPoe          | https://github.com/CrookedPoe          | 22843835       | -                                                               | -
 L-P                 | https://github.com/L-P                 | 947312         | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1 | [issue1_20260227.png](public/issue1/issue1_20260227.png)
 cmon-meow           | https://github.com/cmon-meow           |                | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1 | [issue1_20260227.png](public/issue1/issue1_20260227.png)
+ptweezy             | https://github.com/ptweezy             | 18128669       | -                                                               | -
+hytopoulos          | https://github.com/hytopoulos          | 65437533       | -                                                               | -
+vonProteus          | https://github.com/vonProteus          | 699900         | -                                                               | -
+wedarobi            | https://github.com/wedarobi            | 61944837       | yes to CC0 https://github.com/Dragorn421/oot-licensing/issues/1 | [issue1_20260325.png](public/issue1/issue1_20260325.png)
 
 Note this list is incomplete as it is based on the public repository history, and there were contributors before the repository was made public.
 *These contributors have privately agreed to CC0* and wish to remain anonymous. See the "private" folder for proofs of their agreement if they ever come out (proofs encrypted under their current GitHub username).
