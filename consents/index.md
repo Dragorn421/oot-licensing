@@ -127,6 +127,10 @@ GhostlyDark         | https://github.com/GhostlyDark         | 31742919       | 
 GabrielRavier       | https://github.com/GabrielRavier       | 31440290       | [issue3_20260227.png](public/issue3/issue3_20260227.png)
 joshmoody24         | https://github.com/joshmoody24         | 16723994       | [issue3_20260227.png](public/issue3/issue3_20260227.png)
 djevangelia         | https://github.com/djevangelia         | 263709373      | [issue3_20260227.png](public/issue3/issue3_20260227.png)
+serprex             | https://github.com/serprex             | 159546         | [issue3_20260830.png](public/issue3/issue3_20260830.png)
+nathan-casabieille  | https://github.com/nathan-casabieille  | 45129146       | [issue3_20260830.png](public/issue3/issue3_20260830.png)
+scudo005            | https://github.com/scudo005            | 96631443       | [issue3_20260830.png](public/issue3/issue3_20260830.png)
+Olvivi              | https://github.com/Olvivi              | 316740821      | [issue3_20260830.png](public/issue3/issue3_20260830.png)
 
 Notes:
 
